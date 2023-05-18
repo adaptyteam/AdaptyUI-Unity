@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies>
+	<androidPackages>
+		<androidPackage spec="io.adapty:android-sdk:2.4.2">
+			<repositories>
+				<repository>https://repo.maven.apache.org/maven2/</repository>
+			</repositories>
+		</androidPackage>
+	</androidPackages>
+	<iosPods>
+		<iosPod name="Adapty" version="2.7.0" minTargetSdk="9.0">
+		</iosPod>
+        <iosPod name="AdaptyUI" version="2.0.2" minTargetSdk="13.0">
+        </iosPod>
+	</iosPods>
+</dependencies>
