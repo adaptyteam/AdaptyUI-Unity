@@ -3,7 +3,7 @@ using System.Collections.Generic;
 #if UNITY_IOS && !UNITY_EDITOR
 using _AdaptyCallbackAction = AdaptySDK.iOS.AdaptyIOSCallbackAction;
 #elif UNITY_ANDROID && !UNITY_EDITOR
-using _AdaptyCallbackAction = AdaptySDK.Android.AdaptyUIAndroidCallbackAction;
+using _AdaptyCallbackAction = AdaptySDK.Android.AdaptyAndroidCallbackAction;
 #else
 using _AdaptyCallbackAction = AdaptySDK.Noop.AdaptyNoopCallbackAction;
 #endif
