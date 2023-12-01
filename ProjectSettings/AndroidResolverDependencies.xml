@@ -1,7 +1,7 @@
 <dependencies>
   <packages>
     <package>io.adapty:android-sdk:2.7.0</package>
-    <package>io.adapty:android-ui:2.0.3</package>
+    <package>io.adapty:android-ui:2.0.6</package>
   </packages>
   <files>
     <file>Assets/Plugins/Android/androidx.activity.activity-1.1.0.aar</file>
@@ -42,7 +42,7 @@
     <file>Assets/Plugins/Android/com.google.firebase.firebase-encoders-proto-16.0.0.jar</file>
     <file>Assets/Plugins/Android/com.google.guava.listenablefuture-1.0.jar</file>
     <file>Assets/Plugins/Android/io.adapty.android-sdk-2.7.0.aar</file>
-    <file>Assets/Plugins/Android/io.adapty.android-ui-2.0.3.aar</file>
+    <file>Assets/Plugins/Android/io.adapty.android-ui-2.0.6.aar</file>
     <file>Assets/Plugins/Android/javax.inject.javax.inject-1.jar</file>
     <file>Assets/Plugins/Android/org.jetbrains.annotations-13.0.jar</file>
     <file>Assets/Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-1.7.10.jar</file>
