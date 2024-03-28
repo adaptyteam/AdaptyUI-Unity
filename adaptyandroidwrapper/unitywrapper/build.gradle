@@ -36,6 +36,6 @@ dependencies {
     compileOnly 'io.adapty:android-sdk:2.7.0'
     compileOnly 'io.adapty:android-ui:2.0.2'
     compileOnly 'io.adapty.internal:crossplatform:2.7.0'
-    compileOnly 'io.adapty.internal:crossplatform-ui:2.0.1'
+    compileOnly 'io.adapty.internal:crossplatform-ui:2.0.1.1'
     compileOnly 'io.adapty.internal:unity-wrapper:2.7.1'
 }
