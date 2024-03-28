@@ -13,7 +13,7 @@ namespace AdaptySDK {
     using AdaptySDK.SimpleJSON;
 
     public static partial class AdaptyUI {
-        public static readonly string sdkVersion = "2.0.0";
+        public static readonly string sdkVersion = "2.0.1";
 
         public static void CreatePaywallView(Adapty.Paywall paywall, string locale, bool preloadProducts, Action<View, Adapty.Error> completionHandler)
             => CreatePaywallView(paywall, locale, preloadProducts, null, completionHandler);
